@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NPM](https://www.npmjs.com/) 10.7.0
 - [NestJS](https://nestjs.com/) - 10.3.2
 
-# Template Inicial Jest - Método TAJS - Erick Wendel
+## 💻 Projeto
 
 - [x] - Trabalha com ES Modules
 - [x] - Possui live reload
@@ -53,7 +53,7 @@ ou apenas executá-los
 npm run test
 ```
 
-## Depuração e Live reload no VSCode
+### Depuração e Live reload no VSCode
 
 A pasta [.vscode](./../.vscode) está localizada na raiz dos projetos assim não terá a necessidade de replicar a configuração ao longo do treinamento.
 
